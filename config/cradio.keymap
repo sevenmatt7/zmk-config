@@ -15,14 +15,6 @@
    // tapping_term_ms = <200>;
 };
 
-#define BASE 0
-#define NAV 1
-#define RSYM 2
-#define LSYM 3
-#define FUNC 4
-#define NUM 5
-#define CHORD 6
-
 / { 
 
     combos {
